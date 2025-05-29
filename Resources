@@ -1,0 +1,49 @@
+Articles on various topics (and videos too):
+
+1. DQN:
+
+
+a. Mnih paper (https://arxiv.org/pdf/1312.5602)
+
+b. Double Q learning (https://papers.nips.cc/paper_files/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf)
+
+c. PRIORITIZED EXPERIENCE REPLAY (https://arxiv.org/pdf/1511.05952)
+
+d. Lectures by Peter Abeel (https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) : L2
+
+
+
+
+2. Policy Gradient methods:
+
+
+a. Jonathon Hui Medium blogs (https://jonathan-hui.medium.com/rl-policy-gradients-explained-9b13b688b146)
+
+b. reinforce Algo implementation (https://github.com/pytorch/examples/blob/main/reinforcement_learning/reinforce.py) simple code
+
+c. ALL PG algo implementation (https://github.com/MrSyee/pg-is-all-you-need)
+
+d. Don't let the past distract you (REINFORCE ALGO): https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#don-t-let-the-past-distract-you
+
+e. Implementing PPO from scratch (https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8)
+
+f. Richard's slogan for AI:
+http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/richsprinciples.html
+
+
+
+
+3. A2C (Advantage Actor-Critic Method):
+
+
+a.(Great resource for tips and tricks of RL - great flowchart for understanding which Algo to use in specific problems) https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html
+
+b. https://www.alexirpan.com/2018/02/14/rl-hard.html (Another great source of for in general how to design RL problems with lost of papers cited here - great blog!! )
+
+c. https://arxiv.org/pdf/1709.06560(Deep Reinforcement Learning that Matters --paper)
+
+d. https://www.endtoend.ai/blog/bias-variance-tradeoff-in-reinforcement-learning/ (great resource to understand basics of bias-variance tradeoff - mostly concerned about Monte Carlo and TD learning)
+
+e. https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565 (intermediate level resource talking about bias variane trade off, but this time we talk about Advantage, A2C method, GAE etc.)
+
+f.
